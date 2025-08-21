@@ -1,0 +1,21 @@
+{
+  "name": "copy-url-extension",
+  "version": "1.0.0",
+  "description": "Chrome extension to copy current page URL to clipboard",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "chrome-types": "^0.1.371",
+    "prettier": "^3.3.3"
+  },
+  "keywords": [
+    "chrome-extension",
+    "url",
+    "clipboard",
+    "productivity"
+  ],
+  "author": "Mark Skelton",
+  "license": "ISC"
+}
