@@ -4,7 +4,8 @@
   "description": "Chrome extension to copy current page URL to clipboard",
   "scripts": {
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "build": "zip -r dist.zip dist"
   },
   "devDependencies": {
     "chrome-types": "^0.1.371",
