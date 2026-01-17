@@ -1,5 +1,5 @@
 {
-  "name": "copy-url-extension",
+  "name": "copy-url",
   "version": "1.0.0",
   "description": "Chrome extension to copy current page URL to clipboard",
   "scripts": {
